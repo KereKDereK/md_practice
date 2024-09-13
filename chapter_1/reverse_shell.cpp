@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <iostream>
 #include <unistd.h>
 #include <netinet/ip.h>
 #include <arpa/inet.h>
