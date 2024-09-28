@@ -1,6 +1,4 @@
-#include "helpers.h"
-#include <winsock2.h>
-#pragma comment(lib, "w2_32")
+#include "../helpers.h"
 
 int main (int argc, char* argv[]) {
     if (argc < 2) {
